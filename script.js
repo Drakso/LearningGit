@@ -1,1 +1,1 @@
-console.log("This script is not connected :-( ");
+console.log("This script is still not connected :-( ");
